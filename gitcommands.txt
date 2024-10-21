@@ -1,0 +1,6 @@
+mkdir => to make directory
+checkout -b = create a new branch
+git status = to check the status of file
+git branch - check the current branch
+git add = add file from stagging area
+git log = to view the history
